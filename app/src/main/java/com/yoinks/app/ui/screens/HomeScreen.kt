@@ -355,7 +355,7 @@ fun HomeScreen(
                         ) {
                             Column(
                                 modifier = Modifier.padding(24.dp),
-                                horizontalAlignment = Alignment.CenterVertically
+                                horizontalAlignment = Alignment.CenterHorizontally
                             ) {
                                 Icon(
                                     imageVector = Icons.Default.CheckCircle,
