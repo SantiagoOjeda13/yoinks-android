@@ -1,0 +1,1 @@
+# Yoinks Android Proguard Rules
